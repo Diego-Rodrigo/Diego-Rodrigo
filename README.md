@@ -11,7 +11,7 @@ Gosto de bastante de tecnologia e a aréa de programação.
  <br/> :purple_heart: &nbsp; Sempre estou buscando colaborar com projetos em Front-end usando React, React Native
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, e seriados.
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games: Residen Evil, Clash Royale, e seriados.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-DiegoRodrigo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-r-507b8326/)](https://www.linkedin.com/in/diego-r-507b8326/) 
 | 
 [![Mail Badge](https://img.shields.io/badge/Email-diego.rodrigo.santos%40outlook.com.br-blue)](mailto:diego.rodrigo.santos@outlook.com.br)
