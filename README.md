@@ -8,8 +8,8 @@ Gosto de bastante de tecnologia e a aréa de programação.
 <br/>Sou um Developer FrontEnd e com conhecimentos basico em BackEnd :computer:
 
  :rocket:  &nbsp; No momento estou procurando uma oportunidade de trabalho que possa está ultilizando meu conhecimento **Disponivel para o mercado**
- <br/> :purple_heart: &nbsp; Sempre estou buscando colaborar com projetos em Front-end usando React, React Native
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :purple_heart: &nbsp; Sempre estou buscando colaborar e aprender mais com projetos em Front-end usando React, React Native
+ <br/> :blush: &nbsp; Sempre procurando novos apredizando em CSS, CSS Modules, SASS, Styled-Component Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games: Residen Evil, Clash Royale, e seriados.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-DiegoRodrigo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-r-507b8326/)](https://www.linkedin.com/in/diego-r-507b8326/) 
